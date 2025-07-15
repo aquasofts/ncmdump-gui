@@ -20,7 +20,7 @@ ncm转化的库 [taurusxin/ncmdump: 转换网易云音乐 ncm 到 mp3 / flac. Co
 
 ---
 
-### 自行编译（记得安装相关支持）
+## 自行编译（记得安装相关支持）
 
 ```windres app.rc -O coff -o app.res```
 
