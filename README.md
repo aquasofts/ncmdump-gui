@@ -1,4 +1,4 @@
-# ncmtomp3
+# ncmdump-gui
 
 采用c语言编写
 
