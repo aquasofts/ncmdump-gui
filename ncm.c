@@ -251,7 +251,7 @@ void on_file_selected(GtkWidget *widget, gpointer data) {
     char* filename = select_single_file(hwnd);
     if (filename) {
         char message[1024];
-        g_snprintf(message, sizeof(message), "确定要转换此文件吗？\n\n文件: %s", filename);
+        g_snprintf(message, sizeof(message), "确定要转换此文件吗？（可能会出现玄学问题，如无输出结果可使用文件夹转换功能）\n\n文件: %s", filename);
 
         if (show_confirmation_dialog(window, "确认转换", message)) {
             execute_command(window, "\"%s\" -o ncmmp3", filename);
