@@ -4,7 +4,7 @@
 
 本库在原功能的基础上加了部分ui
 
-ncm转化的库 [taurusxin/ncmdump: 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.](https://github.com/taurusxin/ncmdump?tab=readme-ov-file)
+以此库作为后端 [taurusxin/ncmdump: 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.](https://github.com/taurusxin/ncmdump?tab=readme-ov-file)
 
 学习用途 ， 如有侵权联系本人删除
 
