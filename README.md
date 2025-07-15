@@ -1,8 +1,8 @@
 # ncmdump-gui
 
-采用c语言编写
+采用c语言进行编写
 
-本人只写了ui
+本库在原功能的基础上加了部分ui
 
 ncm转化的库 [taurusxin/ncmdump: 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.](https://github.com/taurusxin/ncmdump?tab=readme-ov-file)
 
